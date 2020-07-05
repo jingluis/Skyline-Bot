@@ -54,10 +54,4 @@ The parsing of the expressions is implemented with the `antlr4` library for Pyth
 Persistent storage is achieved with the `pickle` module in the Python standard library, which allows the saving and loading of arbitrary objects into binary files.
 
 
-## Autor
-
-Jing Luis Cao
-jing.luis.cao@est.fib.upc.edu
-
-
 
